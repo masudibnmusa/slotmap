@@ -23,4 +23,4 @@ Students and teachers can use this tool to avoid the hassle of searching for fre
 
 
 Now this is in full stack application ,, Go and check my repos
-repo link https://github.com/masudibnmusa/Slotmapp.git
+Repo link https://github.com/masudibnmusa/Slotmapp.git
